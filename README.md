@@ -22,5 +22,5 @@
 |        |  中介者   |  ❌      |      |
 |        | 观察者    |  ❌      |      |
 |        | 策略    |  ❌      |      |
-|        | 模板方法    |  ✅      | [如何用代码在同事面前装逼](https://mp.weixin.qq.com/s/6wR3Th-xhOJHhNBhaMujhQ) |
+|        | 模板方法    |  ✅      |<a href="https://mp.weixin.qq.com/s/6wR3Th-xhOJHhNBhaMujhQ" target="_blank">如何用代码在同事面前装逼</a> |
 |        | 访问者   |  ❌      |      |
