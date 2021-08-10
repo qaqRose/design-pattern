@@ -3,18 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>design-patten</artifactId>
+        <artifactId>creational-patterns</artifactId>
         <groupId>io.github.qxqrose</groupId>
         <version>1.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>creational-patterns</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>factory-method</module>
-        <module>singleton</module>
-    </modules>
+    <artifactId>singleton</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
